@@ -66,7 +66,7 @@ export default function Home() {
 
         {/* FIXED VIDEO */}
 
-        <video src="/Timeline 2.mov"
+        <video src="/timeline.mp4"
           autoPlay
           muted
           loop
@@ -75,7 +75,7 @@ export default function Home() {
           className="fixed inset-0 -z-10 h-full w-full object-cover ml-95"/>
 
         <div
-          className="fixed inset-0 -z-10 bg-black/75"></div>
+          className="fixed inset-0 -z-10 bg-black/70"></div>
 
         {/* CONTENT */}
 
